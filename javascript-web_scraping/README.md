@@ -1,1 +1,0 @@
-This readme file is for javascript web scrapping project of Holberton.
