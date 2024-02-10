@@ -1,0 +1,1 @@
+This readme file is for java script web scraping project of Holberton.
